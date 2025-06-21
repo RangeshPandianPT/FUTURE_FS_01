@@ -19,6 +19,15 @@ Welcome to the official portfolio of **RANGESHPANDIAN PT** – a passionate Comp
 
 ---
 
+** PREVIEW 
+![Image](https://github.com/user-attachments/assets/3c735756-ad43-4aa9-84e9-7fe3da83c42c)
+
+![Image](https://github.com/user-attachments/assets/f9158c9d-f218-44e2-9a2c-267dad7a9897)
+
+![Image](https://github.com/user-attachments/assets/fcbe84e0-8ecf-4886-925f-cbe6bdc267d1)
+
+---
+
 ## 🛠 Tech Stack
 
 * **Frontend**: React.js, Tailwind CSS
